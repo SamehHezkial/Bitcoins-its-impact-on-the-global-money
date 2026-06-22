@@ -2,7 +2,7 @@
 
 Summary Section🎓: Capstone Graduate Project | Data Science & Fintech Innovation
 
-Developed and executed a comprehensive capstone project. The research evaluated how the rise of decentralized digital currencies challenges the U.S. Dollar’s status as the global reserve currency.  Using Python (Pandas, Statsmodels, Scikit-learn) in Google Colab, I built a supervised machine learning regression model to analyze empirical data from a global survey of 208 banking and finance professionals. The project analyzed four core latent constructs influencing the target variable (Impact on USD): Regulation, Technology, Economy, and Currency.  
+Developed and executed a comprehensive capstone project. The research evaluated on how the rise of decentralized digital currencies challenges the U.S. Dollar’s status as the global reserve currency.  Using Python (Pandas, Statsmodels, Scikit-learn) in Google Colab, I built a supervised machine learning regression model to analyze empirical data from a global survey of 208 banking and finance professionals. The project analyzed four core latent constructs influencing the target variable (Impact on USD): Regulation, Technology, Economy, and Currency.  
 
 Key Technical Milestones:
 
